@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/igwizard16/DSA_prac/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/igwizard16/DSA_prac/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/igwizard16/DSA_prac/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -29,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/igwizard16/DSA_prac/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
