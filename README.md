@@ -4,15 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/igwizard16/DSA_prac/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/igwizard16/DSA_prac/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/igwizard16/DSA_prac/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/igwizard16/DSA_prac/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/igwizard16/DSA_prac/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/igwizard16/DSA_prac/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0234-palindrome-linked-list) |
 ## Math
