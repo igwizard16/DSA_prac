@@ -36,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/igwizard16/DSA_prac/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0875-koko-eating-bananas](https://github.com/igwizard16/DSA_prac/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/igwizard16/DSA_prac/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0875-koko-eating-bananas](https://github.com/igwizard16/DSA_prac/tree/master/0875-koko-eating-bananas) |
 ## Stack
 |  |
 | ------- |
