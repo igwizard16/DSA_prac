@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/igwizard16/DSA_prac/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/igwizard16/DSA_prac/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
