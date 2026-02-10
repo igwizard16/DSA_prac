@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/igwizard16/DSA_prac/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/igwizard16/DSA_prac/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/igwizard16/DSA_prac/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/igwizard16/DSA_prac/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/igwizard16/DSA_prac/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/igwizard16/DSA_prac/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/igwizard16/DSA_prac/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
