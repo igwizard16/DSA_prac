@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/igwizard16/DSA_prac/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/igwizard16/DSA_prac/tree/master/0875-koko-eating-bananas) |
+| [2742-painting-the-walls](https://github.com/igwizard16/DSA_prac/tree/master/2742-painting-the-walls) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2742-painting-the-walls](https://github.com/igwizard16/DSA_prac/tree/master/2742-painting-the-walls) |
 <!---LeetCode Topics End-->
