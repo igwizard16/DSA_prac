@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/igwizard16/DSA_prac/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/igwizard16/DSA_prac/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/igwizard16/DSA_prac/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -76,9 +77,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/igwizard16/DSA_prac/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [2742-painting-the-walls](https://github.com/igwizard16/DSA_prac/tree/master/2742-painting-the-walls) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/igwizard16/DSA_prac/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/igwizard16/DSA_prac/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
