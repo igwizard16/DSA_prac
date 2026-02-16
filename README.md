@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/igwizard16/DSA_prac/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/igwizard16/DSA_prac/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/igwizard16/DSA_prac/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -47,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/igwizard16/DSA_prac/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/igwizard16/DSA_prac/tree/master/0875-koko-eating-bananas) |
 | [2742-painting-the-walls](https://github.com/igwizard16/DSA_prac/tree/master/2742-painting-the-walls) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/igwizard16/DSA_prac/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/igwizard16/DSA_prac/tree/master/0875-koko-eating-bananas) |
 ## Stack
 |  |
@@ -66,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
+| [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 ## Merge Sort
 |  |
 | ------- |
