@@ -16,21 +16,52 @@ public:
 
 class Solution {
 public:
-    Node* copyRandomList(Node* head) {
+
+    void insertcopybtw(Node* head){
         Node* temp = head;
-        unordered_map<Node* , Node*> mpp;
-        while(temp != NULL){
-            Node* newnode = new Node(temp -> val);
-            mpp[temp] = newnode;
+        while(temp){
+            Node* nextElement = temp -> next;
+            Node* copy = new Node(temp -> val);
+            temp -> next = copy;
+            copy -> next = nextElement;
+            temp = nextElement;
+        }
+    }
+
+    void connectRandomPointer(Node* head){
+        Node* temp = head;
+        while(temp){
+            Node* copy = temp -> next;
+            if(temp -> random){
+                copy -> random = temp -> random -> next;
+            }
+            else{
+                copy -> random = NULL;
+            }
+            temp = temp -> next -> next;
+        }
+    }
+
+    Node* getcopy(Node* head){
+        Node* temp = head;
+        Node* dummynode = new Node(-1);
+        Node* res = dummynode;
+
+        while(temp){
+            //creating new list
+            res -> next = temp -> next;
+            res = res -> next;
+            //disconnecting and going back to initial state of the LL
+            temp -> next = temp -> next -> next;
             temp = temp -> next;
         }
-        temp = head;
-        while(temp != NULL){
-            Node* copyNode = mpp[temp];
-            copyNode -> next = mpp[temp -> next];
-            copyNode -> random = mpp[temp -> random];
-            temp = temp -> next;
-        }
-        return mpp[head];
+        return dummynode -> next;
+    }
+
+
+    Node* copyRandomList(Node* head) {
+        insertcopybtw(head);
+        connectRandomPointer(head);
+        return getcopy(head);
     }
 };
