@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/igwizard16/DSA_prac/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/igwizard16/DSA_prac/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
@@ -102,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0022-generate-parentheses) |
 | [2742-painting-the-walls](https://github.com/igwizard16/DSA_prac/tree/master/2742-painting-the-walls) |
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/igwizard16/DSA_prac/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/igwizard16/DSA_prac/tree/master/0242-valid-anagram) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/igwizard16/DSA_prac/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
