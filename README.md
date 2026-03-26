@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/igwizard16/DSA_prac/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/igwizard16/DSA_prac/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/igwizard16/DSA_prac/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/igwizard16/DSA_prac/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/igwizard16/DSA_prac/tree/master/0142-linked-list-cycle-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/igwizard16/DSA_prac/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/igwizard16/DSA_prac/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/igwizard16/DSA_prac/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/igwizard16/DSA_prac/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/igwizard16/DSA_prac/tree/master/0046-permutations) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/igwizard16/DSA_prac/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/igwizard16/DSA_prac/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/igwizard16/DSA_prac/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
