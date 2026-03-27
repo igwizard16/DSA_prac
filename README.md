@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/igwizard16/DSA_prac/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/igwizard16/DSA_prac/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/igwizard16/DSA_prac/tree/master/0216-combination-sum-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/igwizard16/DSA_prac/tree/master/0875-koko-eating-bananas) |
 | [2742-painting-the-walls](https://github.com/igwizard16/DSA_prac/tree/master/2742-painting-the-walls) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/igwizard16/DSA_prac/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/igwizard16/DSA_prac/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/igwizard16/DSA_prac/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/igwizard16/DSA_prac/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
