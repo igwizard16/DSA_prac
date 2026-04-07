@@ -1,16 +1,14 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int left = 0, res = 0;
-        unordered_map<char, int> mp;
-        for(int right = 0; right < s.size(); right++){
-            mp[s[right]]++;
-            while(mp['a'] > 0 && mp['b'] > 0 && mp['c'] > 0){
-                res += s.size() - right;
-                mp[s[left]]--;
-                left++;
+        vector<int> lastseen = {-1, -1, -1};
+        int cnt = 0;
+        for(int i = 0; i < s.size(); i++){
+            lastseen[s[i] - 'a'] = i;
+            if(lastseen[0] != -1 && lastseen[1] != -1 && lastseen[2] != -1){
+                cnt += 1 + min(lastseen[0], min(lastseen[1], lastseen[2]));
             }
         }
-        return res;
+        return cnt;
     }
 };
