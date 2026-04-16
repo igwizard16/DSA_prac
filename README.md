@@ -106,6 +106,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/igwizard16/DSA_prac/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -196,4 +197,8 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/igwizard16/DSA_prac/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/igwizard16/DSA_prac/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
