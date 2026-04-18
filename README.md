@@ -47,6 +47,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0015-3sum](https://github.com/igwizard16/DSA_prac/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/igwizard16/DSA_prac/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/igwizard16/DSA_prac/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/igwizard16/DSA_prac/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/igwizard16/DSA_prac/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/igwizard16/DSA_prac/tree/master/0142-linked-list-cycle-ii) |
@@ -77,6 +78,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0018-4sum](https://github.com/igwizard16/DSA_prac/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/igwizard16/DSA_prac/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/igwizard16/DSA_prac/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/igwizard16/DSA_prac/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/igwizard16/DSA_prac/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
@@ -109,6 +111,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/igwizard16/DSA_prac/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/igwizard16/DSA_prac/tree/master/0496-next-greater-element-i) |
@@ -153,6 +156,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
 | [2742-painting-the-walls](https://github.com/igwizard16/DSA_prac/tree/master/2742-painting-the-walls) |
 ## String
 |  |
@@ -209,6 +213,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/igwizard16/DSA_prac/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/igwizard16/DSA_prac/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
