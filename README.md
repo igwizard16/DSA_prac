@@ -85,6 +85,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/igwizard16/DSA_prac/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/igwizard16/DSA_prac/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/igwizard16/DSA_prac/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/igwizard16/DSA_prac/tree/master/0216-combination-sum-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
@@ -118,6 +119,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | ------- |
 | [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/igwizard16/DSA_prac/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/igwizard16/DSA_prac/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/igwizard16/DSA_prac/tree/master/0402-remove-k-digits) |
@@ -167,6 +169,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | ------- |
 | [0022-generate-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/igwizard16/DSA_prac/tree/master/0907-sum-of-subarray-minimums) |
 | [2742-painting-the-walls](https://github.com/igwizard16/DSA_prac/tree/master/2742-painting-the-walls) |
 ## String
@@ -192,6 +195,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/igwizard16/DSA_prac/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
 ## Sliding Window
 |  |
 | ------- |
@@ -231,6 +235,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | ------- |
 | [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/igwizard16/DSA_prac/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/igwizard16/DSA_prac/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/igwizard16/DSA_prac/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/igwizard16/DSA_prac/tree/master/0503-next-greater-element-ii) |
