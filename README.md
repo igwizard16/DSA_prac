@@ -88,6 +88,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/igwizard16/DSA_prac/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/igwizard16/DSA_prac/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/igwizard16/DSA_prac/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/igwizard16/DSA_prac/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/igwizard16/DSA_prac/tree/master/0503-next-greater-element-ii) |
@@ -200,6 +201,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/igwizard16/DSA_prac/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/igwizard16/DSA_prac/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/igwizard16/DSA_prac/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/igwizard16/DSA_prac/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/igwizard16/DSA_prac/tree/master/0930-binary-subarrays-with-sum) |
@@ -241,4 +243,16 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0503-next-greater-element-ii](https://github.com/igwizard16/DSA_prac/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/igwizard16/DSA_prac/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/igwizard16/DSA_prac/tree/master/2104-sum-of-subarray-ranges) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/igwizard16/DSA_prac/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/igwizard16/DSA_prac/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/igwizard16/DSA_prac/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
