@@ -12,6 +12,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0076-minimum-window-substring](https://github.com/igwizard16/DSA_prac/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/igwizard16/DSA_prac/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/igwizard16/DSA_prac/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/igwizard16/DSA_prac/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/igwizard16/DSA_prac/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/igwizard16/DSA_prac/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
@@ -36,6 +37,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0092-reverse-linked-list-ii](https://github.com/igwizard16/DSA_prac/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/igwizard16/DSA_prac/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/igwizard16/DSA_prac/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/igwizard16/DSA_prac/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/igwizard16/DSA_prac/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0234-palindrome-linked-list) |
@@ -232,6 +234,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/igwizard16/DSA_prac/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/igwizard16/DSA_prac/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/igwizard16/DSA_prac/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -262,4 +265,8 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/igwizard16/DSA_prac/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/igwizard16/DSA_prac/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
