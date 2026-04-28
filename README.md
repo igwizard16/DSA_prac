@@ -17,6 +17,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0242-valid-anagram](https://github.com/igwizard16/DSA_prac/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/igwizard16/DSA_prac/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/igwizard16/DSA_prac/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/igwizard16/DSA_prac/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/igwizard16/DSA_prac/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/igwizard16/DSA_prac/tree/master/0930-binary-subarrays-with-sum) |
@@ -42,6 +43,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0160-intersection-of-two-linked-lists](https://github.com/igwizard16/DSA_prac/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/igwizard16/DSA_prac/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -240,6 +242,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | ------- |
 | [0146-lru-cache](https://github.com/igwizard16/DSA_prac/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/igwizard16/DSA_prac/tree/master/0155-min-stack) |
+| [0460-lfu-cache](https://github.com/igwizard16/DSA_prac/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/igwizard16/DSA_prac/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -273,6 +276,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/igwizard16/DSA_prac/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/igwizard16/DSA_prac/tree/master/0460-lfu-cache) |
 ## String Matching
 |  |
 | ------- |
