@@ -48,6 +48,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/igwizard16/DSA_prac/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/igwizard16/DSA_prac/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/igwizard16/DSA_prac/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/igwizard16/DSA_prac/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -175,6 +176,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/igwizard16/DSA_prac/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
@@ -183,6 +185,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/igwizard16/DSA_prac/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/igwizard16/DSA_prac/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/igwizard16/DSA_prac/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
