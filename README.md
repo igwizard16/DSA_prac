@@ -164,6 +164,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0046-permutations](https://github.com/igwizard16/DSA_prac/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/igwizard16/DSA_prac/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/igwizard16/DSA_prac/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/igwizard16/DSA_prac/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/igwizard16/DSA_prac/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
@@ -180,6 +181,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0022-generate-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/igwizard16/DSA_prac/tree/master/0131-palindrome-partitioning) |
 | [0907-sum-of-subarray-minimums](https://github.com/igwizard16/DSA_prac/tree/master/0907-sum-of-subarray-minimums) |
 | [2742-painting-the-walls](https://github.com/igwizard16/DSA_prac/tree/master/2742-painting-the-walls) |
 ## String
@@ -192,6 +194,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0043-multiply-strings](https://github.com/igwizard16/DSA_prac/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/igwizard16/DSA_prac/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/igwizard16/DSA_prac/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/igwizard16/DSA_prac/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/igwizard16/DSA_prac/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/igwizard16/DSA_prac/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/igwizard16/DSA_prac/tree/master/0402-remove-k-digits) |
