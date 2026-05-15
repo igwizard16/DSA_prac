@@ -19,6 +19,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0424-longest-repeating-character-replacement](https://github.com/igwizard16/DSA_prac/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/igwizard16/DSA_prac/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/igwizard16/DSA_prac/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/igwizard16/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/igwizard16/DSA_prac/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/igwizard16/DSA_prac/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igwizard16/DSA_prac/tree/master/0992-subarrays-with-k-different-integers) |
@@ -99,6 +100,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/igwizard16/DSA_prac/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/igwizard16/DSA_prac/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/igwizard16/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/igwizard16/DSA_prac/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/igwizard16/DSA_prac/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/igwizard16/DSA_prac/tree/master/0904-fruit-into-baskets) |
@@ -229,6 +231,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/igwizard16/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/igwizard16/DSA_prac/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/igwizard16/DSA_prac/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/igwizard16/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
