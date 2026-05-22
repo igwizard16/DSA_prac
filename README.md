@@ -57,6 +57,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/igwizard16/DSA_prac/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/igwizard16/DSA_prac/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/igwizard16/DSA_prac/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/igwizard16/DSA_prac/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/igwizard16/DSA_prac/tree/master/0151-reverse-words-in-a-string) |
@@ -94,6 +95,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/igwizard16/DSA_prac/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/igwizard16/DSA_prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/igwizard16/DSA_prac/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/igwizard16/DSA_prac/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/igwizard16/DSA_prac/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/igwizard16/DSA_prac/tree/master/0239-sliding-window-maximum) |
@@ -148,6 +150,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | ------- |
 | [0015-3sum](https://github.com/igwizard16/DSA_prac/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/igwizard16/DSA_prac/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/igwizard16/DSA_prac/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/igwizard16/DSA_prac/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
