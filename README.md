@@ -188,6 +188,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0022-generate-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/igwizard16/DSA_prac/tree/master/0131-palindrome-partitioning) |
 | [0907-sum-of-subarray-minimums](https://github.com/igwizard16/DSA_prac/tree/master/0907-sum-of-subarray-minimums) |
 | [2742-painting-the-walls](https://github.com/igwizard16/DSA_prac/tree/master/2742-painting-the-walls) |
@@ -302,6 +303,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0100-same-tree](https://github.com/igwizard16/DSA_prac/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -311,6 +313,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0100-same-tree](https://github.com/igwizard16/DSA_prac/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -320,6 +323,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0100-same-tree](https://github.com/igwizard16/DSA_prac/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
