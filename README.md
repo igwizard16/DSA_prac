@@ -91,6 +91,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0040-combination-sum-ii](https://github.com/igwizard16/DSA_prac/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/igwizard16/DSA_prac/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/igwizard16/DSA_prac/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/igwizard16/DSA_prac/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/igwizard16/DSA_prac/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -153,6 +154,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | ------- |
 | [0015-3sum](https://github.com/igwizard16/DSA_prac/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/igwizard16/DSA_prac/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/igwizard16/DSA_prac/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/igwizard16/DSA_prac/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/igwizard16/DSA_prac/tree/master/0242-valid-anagram) |
