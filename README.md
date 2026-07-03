@@ -22,6 +22,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0560-subarray-sum-equals-k](https://github.com/igwizard16/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/igwizard16/DSA_prac/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/igwizard16/DSA_prac/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igwizard16/DSA_prac/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/igwizard16/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/igwizard16/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -156,6 +157,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/igwizard16/DSA_prac/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/igwizard16/DSA_prac/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Merge Sort
 |  |
@@ -307,6 +309,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -317,6 +320,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -328,10 +332,12 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/igwizard16/DSA_prac/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
