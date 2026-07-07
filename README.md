@@ -74,6 +74,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0050-powx-n](https://github.com/igwizard16/DSA_prac/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/igwizard16/DSA_prac/tree/master/0067-add-binary) |
 | [1248-count-number-of-nice-subarrays](https://github.com/igwizard16/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/igwizard16/DSA_prac/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
