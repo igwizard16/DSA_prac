@@ -107,6 +107,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0216-combination-sum-iii](https://github.com/igwizard16/DSA_prac/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/igwizard16/DSA_prac/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/igwizard16/DSA_prac/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/igwizard16/DSA_prac/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/igwizard16/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
@@ -133,6 +134,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0074-search-a-2d-matrix](https://github.com/igwizard16/DSA_prac/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/igwizard16/DSA_prac/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/igwizard16/DSA_prac/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/igwizard16/DSA_prac/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/igwizard16/DSA_prac/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -160,6 +162,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -177,6 +180,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -390,4 +394,16 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/igwizard16/DSA_prac/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
