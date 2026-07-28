@@ -179,6 +179,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1288-remove-covered-intervals](https://github.com/igwizard16/DSA_prac/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/igwizard16/DSA_prac/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/igwizard16/DSA_prac/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -237,6 +238,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/igwizard16/DSA_prac/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/igwizard16/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/igwizard16/DSA_prac/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/igwizard16/DSA_prac/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/igwizard16/DSA_prac/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
@@ -411,4 +413,8 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/igwizard16/DSA_prac/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
