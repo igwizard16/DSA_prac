@@ -2,20 +2,20 @@ class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
         int n = nums.size();
-        
-        vector<int> temp = nums;
-        sort(temp.begin(), temp.end());
-        vector<int> res;
-        unordered_map<int, int> mp;
+        int freq[101] = {0};
 
-        mp[temp[0]] = 0;
-        for(int i = 1; i < n; i++){
-            if(temp[i - 1] == temp[i]) continue;
-            mp[temp[i]] = i;
+        for(int num : nums){
+            freq[num]++;
         }
-        for(auto num : nums){
-            res.push_back(mp[num]);
+        //prefix sum
+        for(int i = 1; i <= 100; i++){
+            freq[i] += freq[i - 1];
         }
-        return res;
+        vector<int> ans;
+        for(int num : nums){
+            if(num == 0) ans.push_back(0);
+            else ans.push_back(freq[num - 1]);
+        }
+        return ans;
     }
 };
