@@ -104,6 +104,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0057-insert-interval](https://github.com/igwizard16/DSA_prac/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/igwizard16/DSA_prac/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/igwizard16/DSA_prac/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/igwizard16/DSA_prac/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/igwizard16/DSA_prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
@@ -204,6 +205,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0040-combination-sum-ii](https://github.com/igwizard16/DSA_prac/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/igwizard16/DSA_prac/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/igwizard16/DSA_prac/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/igwizard16/DSA_prac/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/igwizard16/DSA_prac/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/igwizard16/DSA_prac/tree/master/0216-combination-sum-iii) |
@@ -239,6 +241,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0043-multiply-strings](https://github.com/igwizard16/DSA_prac/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/igwizard16/DSA_prac/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/igwizard16/DSA_prac/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/igwizard16/DSA_prac/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/igwizard16/DSA_prac/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/igwizard16/DSA_prac/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/igwizard16/DSA_prac/tree/master/0242-valid-anagram) |
@@ -261,6 +264,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/igwizard16/DSA_prac/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/igwizard16/DSA_prac/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
 | [2965-find-missing-and-repeated-values](https://github.com/igwizard16/DSA_prac/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
@@ -367,6 +371,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/igwizard16/DSA_prac/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/igwizard16/DSA_prac/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/igwizard16/DSA_prac/tree/master/0101-symmetric-tree) |
