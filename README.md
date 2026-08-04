@@ -31,6 +31,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/igwizard16/DSA_prac/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/igwizard16/DSA_prac/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2965-find-missing-and-repeated-values](https://github.com/igwizard16/DSA_prac/tree/master/2965-find-missing-and-repeated-values) |
+| [3731-find-missing-elements](https://github.com/igwizard16/DSA_prac/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/igwizard16/DSA_prac/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/igwizard16/DSA_prac/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Linked List
@@ -137,6 +138,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [2104-sum-of-subarray-ranges](https://github.com/igwizard16/DSA_prac/tree/master/2104-sum-of-subarray-ranges) |
 | [2742-painting-the-walls](https://github.com/igwizard16/DSA_prac/tree/master/2742-painting-the-walls) |
 | [2965-find-missing-and-repeated-values](https://github.com/igwizard16/DSA_prac/tree/master/2965-find-missing-and-repeated-values) |
+| [3731-find-missing-elements](https://github.com/igwizard16/DSA_prac/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/igwizard16/DSA_prac/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/igwizard16/DSA_prac/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
@@ -192,6 +194,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/igwizard16/DSA_prac/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/igwizard16/DSA_prac/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/igwizard16/DSA_prac/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
 | ------- |
