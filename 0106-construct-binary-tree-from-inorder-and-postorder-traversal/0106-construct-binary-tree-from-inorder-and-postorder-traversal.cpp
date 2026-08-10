@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    TreeNode* buildBT(vector<int>& inorder, int in_start, int in_end, vector<int>& postorder, int p_start, int p_end, map<int, int>& mpp){
+    TreeNode* buildBT(vector<int>& inorder, int in_start, int in_end, vector<int>& postorder, int p_start, int p_end, unordered_map<int, int>& mpp){
         if(p_start > p_end || in_start > in_end) return NULL;
 
         TreeNode* root = new TreeNode(postorder[p_end]);
@@ -27,7 +27,7 @@ public:
     }
 
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-        map<int, int> mpp;
+        unordered_map<int, int> mpp;
 
         for(int i = 0; i < inorder.size(); i++){
             mpp[inorder[i]] = i;
