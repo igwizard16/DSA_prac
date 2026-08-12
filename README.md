@@ -81,6 +81,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0043-multiply-strings](https://github.com/igwizard16/DSA_prac/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/igwizard16/DSA_prac/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/igwizard16/DSA_prac/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/igwizard16/DSA_prac/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/igwizard16/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/igwizard16/DSA_prac/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/igwizard16/DSA_prac/tree/master/2965-find-missing-and-repeated-values) |
@@ -117,6 +118,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0090-subsets-ii](https://github.com/igwizard16/DSA_prac/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/igwizard16/DSA_prac/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/igwizard16/DSA_prac/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/igwizard16/DSA_prac/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/igwizard16/DSA_prac/tree/master/0239-sliding-window-maximum) |
@@ -168,6 +170,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/igwizard16/DSA_prac/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/igwizard16/DSA_prac/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/igwizard16/DSA_prac/tree/master/0316-remove-duplicate-letters) |
