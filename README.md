@@ -32,6 +32,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/igwizard16/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/igwizard16/DSA_prac/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/igwizard16/DSA_prac/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/igwizard16/DSA_prac/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/igwizard16/DSA_prac/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/igwizard16/DSA_prac/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/igwizard16/DSA_prac/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -146,6 +147,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1979-find-greatest-common-divisor-of-array](https://github.com/igwizard16/DSA_prac/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/igwizard16/DSA_prac/tree/master/2104-sum-of-subarray-ranges) |
 | [2742-painting-the-walls](https://github.com/igwizard16/DSA_prac/tree/master/2742-painting-the-walls) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/igwizard16/DSA_prac/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/igwizard16/DSA_prac/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/igwizard16/DSA_prac/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/igwizard16/DSA_prac/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -302,6 +304,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/igwizard16/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/igwizard16/DSA_prac/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/igwizard16/DSA_prac/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/igwizard16/DSA_prac/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
