@@ -171,6 +171,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0084-largest-rectangle-in-histogram](https://github.com/igwizard16/DSA_prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/igwizard16/DSA_prac/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/igwizard16/DSA_prac/tree/master/0155-min-stack) |
@@ -386,6 +387,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/igwizard16/DSA_prac/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/igwizard16/DSA_prac/tree/master/0222-count-complete-tree-nodes) |
@@ -407,6 +409,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0104-maximum-depth-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/igwizard16/DSA_prac/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -429,6 +432,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/igwizard16/DSA_prac/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/igwizard16/DSA_prac/tree/master/0222-count-complete-tree-nodes) |
