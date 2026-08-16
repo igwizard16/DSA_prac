@@ -228,6 +228,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0040-combination-sum-ii](https://github.com/igwizard16/DSA_prac/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/igwizard16/DSA_prac/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/igwizard16/DSA_prac/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/igwizard16/DSA_prac/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/igwizard16/DSA_prac/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/igwizard16/DSA_prac/tree/master/0090-subsets-ii) |
@@ -494,4 +495,5 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/igwizard16/DSA_prac/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/igwizard16/DSA_prac/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
