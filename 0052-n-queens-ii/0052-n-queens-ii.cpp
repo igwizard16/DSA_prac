@@ -1,10 +1,10 @@
 class Solution {
 public:
     int cnt = 0;
-    int solve(int col, vector<string>& board, vector<int>& leftRow, vector<int>& lowerDiagonal, vector<int>& upperDiagonal, int n){
+    void solve(int col, vector<string>& board, vector<int>& leftRow, vector<int>& lowerDiagonal, vector<int>& upperDiagonal, int n){
         if(col == n){
             cnt++;
-            return cnt;
+            return;
         }
 
         for(int row = 0; row < n; row++){
@@ -20,7 +20,6 @@ public:
                 upperDiagonal[n - 1 + col - row] = 0;
             }
         }
-        return cnt;
     }
 
     int totalNQueens(int n) {
@@ -33,6 +32,7 @@ public:
 
         vector<int> leftRow(n, 0), lowerDiagonal(2 * n - 1, 0), upperDiagonal(2 * n - 1, 0);
 
-        return solve(0, board, leftRow, lowerDiagonal, upperDiagonal, n);
+        solve(0, board, leftRow, lowerDiagonal, upperDiagonal, n);
+        return cnt;
     }
 };
