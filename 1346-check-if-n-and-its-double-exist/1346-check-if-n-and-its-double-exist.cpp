@@ -1,15 +1,14 @@
 class Solution {
 public:
     bool checkIfExist(vector<int>& arr) {
-        unordered_map<int, int> mpp;
 
-        for(int i = 0; i < arr.size(); i++){
-            mpp[arr[i]] = i;
-        }
-        for(int i = 0; i < arr.size(); i++){
-            if(mpp.find(2 * arr[i]) != mpp.end() && mpp[2 * arr[i]] != i){
-                return true;
+        for(int i = 0;i<arr.size();i++){
+            for(int j = 0;j<arr.size();j++){
+                if(arr[i] == arr[j]*2 && i !=j){
+                    return true;
+                }
             }
+
         }
         return false;
     }
