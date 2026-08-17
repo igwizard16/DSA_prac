@@ -29,6 +29,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igwizard16/DSA_prac/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/igwizard16/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/igwizard16/DSA_prac/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/igwizard16/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/igwizard16/DSA_prac/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/igwizard16/DSA_prac/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -77,6 +78,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0234-palindrome-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0876-middle-of-the-linked-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/igwizard16/DSA_prac/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +143,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1248-count-number-of-nice-subarrays](https://github.com/igwizard16/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/igwizard16/DSA_prac/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/igwizard16/DSA_prac/tree/master/1288-remove-covered-intervals) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/igwizard16/DSA_prac/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/igwizard16/DSA_prac/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/igwizard16/DSA_prac/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/igwizard16/DSA_prac/tree/master/1441-build-an-array-with-stack-operations) |
@@ -165,6 +168,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0875-koko-eating-bananas](https://github.com/igwizard16/DSA_prac/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/igwizard16/DSA_prac/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/igwizard16/DSA_prac/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/igwizard16/DSA_prac/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/igwizard16/DSA_prac/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
@@ -209,6 +213,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0645-set-mismatch](https://github.com/igwizard16/DSA_prac/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/igwizard16/DSA_prac/tree/master/1288-remove-covered-intervals) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/igwizard16/DSA_prac/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/igwizard16/DSA_prac/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/igwizard16/DSA_prac/tree/master/1838-frequency-of-the-most-frequent-element) |
