@@ -1,26 +1,29 @@
 class Solution {
 public:
     vector<int> exclusiveTime(int n, vector<string>& logs) {
-        vector<int> ans(n);
-        stack<pair<int, int>> curr;
-        
+        vector<int> ans(n, 0);
+        stack<int> st;
+
         int prev_time = 0;
+        for(auto &log : logs){
+            int x = log.find(':');
+            int y = log.find(':', x + 1);
 
-        for(auto &s : logs){
-            int id = stoi(s.substr(0, s.find(':')));
-            int time = stoi(s.substr(s.rfind(':') + 1));
+            int id = stoi(log.substr(0, x));
+            string type = log.substr(x + 1, y - x - 1);
+            int time = stoi(log.substr(y + 1));
 
-            if(s.find('e') != -1){
-                ans[id] += time - prev_time + 1;
-                curr.pop();
-                prev_time = time + 1;
+            if(type == "start"){
+                if(!st.empty()){
+                    ans[st.top()] += time - prev_time;
+                }
+                st.push(id);
+                prev_time = time;
             }
             else{
-                if(!curr.empty()){
-                    ans[curr.top().first] += (time - prev_time);
-                }
-                curr.push({id, time});
-                prev_time = time;
+                ans[st.top()] += time - prev_time + 1;
+                st.pop();
+                prev_time = time + 1;
             }
         }
         return ans;
