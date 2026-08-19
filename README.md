@@ -150,6 +150,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/igwizard16/DSA_prac/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/igwizard16/DSA_prac/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/igwizard16/DSA_prac/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/igwizard16/DSA_prac/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/igwizard16/DSA_prac/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/igwizard16/DSA_prac/tree/master/2104-sum-of-subarray-ranges) |
@@ -196,6 +197,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0907-sum-of-subarray-minimums](https://github.com/igwizard16/DSA_prac/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/igwizard16/DSA_prac/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/igwizard16/DSA_prac/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/igwizard16/DSA_prac/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/igwizard16/DSA_prac/tree/master/2104-sum-of-subarray-ranges) |
 ## Divide and Conquer
 |  |
@@ -363,6 +365,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0901-online-stock-span](https://github.com/igwizard16/DSA_prac/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/igwizard16/DSA_prac/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/igwizard16/DSA_prac/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/igwizard16/DSA_prac/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/igwizard16/DSA_prac/tree/master/2104-sum-of-subarray-ranges) |
 ## Queue
 |  |
