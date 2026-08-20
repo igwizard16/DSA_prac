@@ -86,6 +86,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0002-add-two-numbers](https://github.com/igwizard16/DSA_prac/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/igwizard16/DSA_prac/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/igwizard16/DSA_prac/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/igwizard16/DSA_prac/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/igwizard16/DSA_prac/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/igwizard16/DSA_prac/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/igwizard16/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
@@ -114,6 +115,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0051-n-queens](https://github.com/igwizard16/DSA_prac/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/igwizard16/DSA_prac/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/igwizard16/DSA_prac/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/igwizard16/DSA_prac/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/igwizard16/DSA_prac/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/igwizard16/DSA_prac/tree/master/0079-word-search) |
