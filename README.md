@@ -32,6 +32,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1346-check-if-n-and-its-double-exist](https://github.com/igwizard16/DSA_prac/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/igwizard16/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/igwizard16/DSA_prac/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/igwizard16/DSA_prac/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/igwizard16/DSA_prac/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/igwizard16/DSA_prac/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/igwizard16/DSA_prac/tree/master/2965-find-missing-and-repeated-values) |
@@ -80,6 +81,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/igwizard16/DSA_prac/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/igwizard16/DSA_prac/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1441-build-an-array-with-stack-operations](https://github.com/igwizard16/DSA_prac/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/igwizard16/DSA_prac/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/igwizard16/DSA_prac/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/igwizard16/DSA_prac/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/igwizard16/DSA_prac/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/igwizard16/DSA_prac/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -230,6 +233,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1346-check-if-n-and-its-double-exist](https://github.com/igwizard16/DSA_prac/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/igwizard16/DSA_prac/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/igwizard16/DSA_prac/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/igwizard16/DSA_prac/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/igwizard16/DSA_prac/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/igwizard16/DSA_prac/tree/master/3731-find-missing-elements) |
