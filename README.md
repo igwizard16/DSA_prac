@@ -148,6 +148,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0941-valid-mountain-array](https://github.com/igwizard16/DSA_prac/tree/master/0941-valid-mountain-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igwizard16/DSA_prac/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/igwizard16/DSA_prac/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/igwizard16/DSA_prac/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/igwizard16/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/igwizard16/DSA_prac/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/igwizard16/DSA_prac/tree/master/1288-remove-covered-intervals) |
@@ -392,6 +393,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/igwizard16/DSA_prac/tree/master/0239-sliding-window-maximum) |
+| [1046-last-stone-weight](https://github.com/igwizard16/DSA_prac/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
