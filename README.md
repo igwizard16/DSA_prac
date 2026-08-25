@@ -133,6 +133,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0216-combination-sum-iii](https://github.com/igwizard16/DSA_prac/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/igwizard16/DSA_prac/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/igwizard16/DSA_prac/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/igwizard16/DSA_prac/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/igwizard16/DSA_prac/tree/master/0503-next-greater-element-ii) |
@@ -393,6 +394,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/igwizard16/DSA_prac/tree/master/0239-sliding-window-maximum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/igwizard16/DSA_prac/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/igwizard16/DSA_prac/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
