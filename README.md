@@ -209,6 +209,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0739-daily-temperatures](https://github.com/igwizard16/DSA_prac/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/igwizard16/DSA_prac/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/igwizard16/DSA_prac/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/igwizard16/DSA_prac/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/igwizard16/DSA_prac/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/igwizard16/DSA_prac/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -303,6 +304,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0316-remove-duplicate-letters](https://github.com/igwizard16/DSA_prac/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/igwizard16/DSA_prac/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/igwizard16/DSA_prac/tree/master/0424-longest-repeating-character-replacement) |
+| [1021-remove-outermost-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/igwizard16/DSA_prac/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/igwizard16/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/igwizard16/DSA_prac/tree/master/1903-largest-odd-number-in-string) |
@@ -534,4 +536,8 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | ------- |
 | [0051-n-queens](https://github.com/igwizard16/DSA_prac/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/igwizard16/DSA_prac/tree/master/0052-n-queens-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
