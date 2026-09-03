@@ -110,6 +110,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/igwizard16/DSA_prac/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/igwizard16/DSA_prac/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/igwizard16/DSA_prac/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/igwizard16/DSA_prac/tree/master/0039-combination-sum) |
@@ -291,6 +292,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/igwizard16/DSA_prac/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/igwizard16/DSA_prac/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/igwizard16/DSA_prac/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/igwizard16/DSA_prac/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -542,4 +544,8 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/igwizard16/DSA_prac/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
