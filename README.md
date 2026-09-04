@@ -20,6 +20,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0242-valid-anagram](https://github.com/igwizard16/DSA_prac/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/igwizard16/DSA_prac/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/igwizard16/DSA_prac/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/igwizard16/DSA_prac/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/igwizard16/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
@@ -238,6 +239,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/igwizard16/DSA_prac/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/igwizard16/DSA_prac/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/igwizard16/DSA_prac/tree/master/1288-remove-covered-intervals) |
@@ -312,6 +314,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0316-remove-duplicate-letters](https://github.com/igwizard16/DSA_prac/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/igwizard16/DSA_prac/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/igwizard16/DSA_prac/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/igwizard16/DSA_prac/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/igwizard16/DSA_prac/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -367,6 +370,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igwizard16/DSA_prac/tree/master/0992-subarrays-with-k-different-integers) |
 ## Greedy
 |  |
@@ -412,6 +416,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/igwizard16/DSA_prac/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/igwizard16/DSA_prac/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/igwizard16/DSA_prac/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/igwizard16/DSA_prac/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -556,4 +561,8 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/igwizard16/DSA_prac/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
