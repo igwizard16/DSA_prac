@@ -316,6 +316,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0402-remove-k-digits](https://github.com/igwizard16/DSA_prac/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/igwizard16/DSA_prac/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/igwizard16/DSA_prac/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/igwizard16/DSA_prac/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/igwizard16/DSA_prac/tree/master/1081-smallest-subsequence-of-distinct-characters) |
