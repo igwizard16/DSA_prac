@@ -181,6 +181,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/igwizard16/DSA_prac/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/igwizard16/DSA_prac/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/igwizard16/DSA_prac/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/igwizard16/DSA_prac/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -367,6 +368,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1838-frequency-of-the-most-frequent-element](https://github.com/igwizard16/DSA_prac/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/igwizard16/DSA_prac/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/igwizard16/DSA_prac/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/igwizard16/DSA_prac/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
 |  |
 | ------- |
