@@ -319,6 +319,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0482-license-key-formatting](https://github.com/igwizard16/DSA_prac/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/igwizard16/DSA_prac/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/igwizard16/DSA_prac/tree/master/0796-rotate-string) |
+| [0831-masking-personal-information](https://github.com/igwizard16/DSA_prac/tree/master/0831-masking-personal-information) |
 | [1021-remove-outermost-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/igwizard16/DSA_prac/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/igwizard16/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
