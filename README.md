@@ -320,6 +320,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/igwizard16/DSA_prac/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/igwizard16/DSA_prac/tree/master/0520-detect-capital) |
+| [0686-repeated-string-match](https://github.com/igwizard16/DSA_prac/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/igwizard16/DSA_prac/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/igwizard16/DSA_prac/tree/master/0831-masking-personal-information) |
 | [1021-remove-outermost-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1021-remove-outermost-parentheses) |
@@ -444,6 +445,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/igwizard16/DSA_prac/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/igwizard16/DSA_prac/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/igwizard16/DSA_prac/tree/master/0796-rotate-string) |
 ## Tree
 |  |
@@ -572,4 +574,16 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/igwizard16/DSA_prac/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/igwizard16/DSA_prac/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/igwizard16/DSA_prac/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
