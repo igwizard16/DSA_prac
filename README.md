@@ -227,6 +227,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/igwizard16/DSA_prac/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/igwizard16/DSA_prac/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/igwizard16/DSA_prac/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/igwizard16/DSA_prac/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/igwizard16/DSA_prac/tree/master/2104-sum-of-subarray-ranges) |
 ## Divide and Conquer
@@ -330,6 +331,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1021-remove-outermost-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/igwizard16/DSA_prac/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/igwizard16/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/igwizard16/DSA_prac/tree/master/1903-largest-odd-number-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/igwizard16/DSA_prac/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/igwizard16/DSA_prac/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -574,6 +576,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
