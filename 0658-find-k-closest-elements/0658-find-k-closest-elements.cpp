@@ -17,7 +17,6 @@ public:
             }
         }
 
-        return vector<int>(arr.begin() + left,
-                           arr.begin() + left + k);
+        return vector<int>(arr.begin() + left, arr.begin() + left + k);
     }
 };
