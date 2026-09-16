@@ -483,6 +483,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/igwizard16/DSA_prac/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/igwizard16/DSA_prac/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -533,6 +534,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/igwizard16/DSA_prac/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/igwizard16/DSA_prac/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -612,6 +614,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/igwizard16/DSA_prac/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Quickselect
 |  |
