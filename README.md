@@ -8,6 +8,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/igwizard16/DSA_prac/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/igwizard16/DSA_prac/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/igwizard16/DSA_prac/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -91,6 +92,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/igwizard16/DSA_prac/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/igwizard16/DSA_prac/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/igwizard16/DSA_prac/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/igwizard16/DSA_prac/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/igwizard16/DSA_prac/tree/master/0066-plus-one) |
@@ -312,6 +314,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/igwizard16/DSA_prac/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/igwizard16/DSA_prac/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/igwizard16/DSA_prac/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/igwizard16/DSA_prac/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0022-generate-parentheses) |
