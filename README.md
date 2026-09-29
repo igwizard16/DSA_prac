@@ -168,6 +168,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0941-valid-mountain-array](https://github.com/igwizard16/DSA_prac/tree/master/0941-valid-mountain-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igwizard16/DSA_prac/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/igwizard16/DSA_prac/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/igwizard16/DSA_prac/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/igwizard16/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/igwizard16/DSA_prac/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -236,6 +237,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0739-daily-temperatures](https://github.com/igwizard16/DSA_prac/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/igwizard16/DSA_prac/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/igwizard16/DSA_prac/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/igwizard16/DSA_prac/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/igwizard16/DSA_prac/tree/master/1441-build-an-array-with-stack-operations) |
@@ -441,6 +443,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0739-daily-temperatures](https://github.com/igwizard16/DSA_prac/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/igwizard16/DSA_prac/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/igwizard16/DSA_prac/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/igwizard16/DSA_prac/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/igwizard16/DSA_prac/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/igwizard16/DSA_prac/tree/master/2104-sum-of-subarray-ranges) |
@@ -511,6 +514,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0701-insert-into-a-binary-search-tree](https://github.com/igwizard16/DSA_prac/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/igwizard16/DSA_prac/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/igwizard16/DSA_prac/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -569,6 +573,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0701-insert-into-a-binary-search-tree](https://github.com/igwizard16/DSA_prac/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/igwizard16/DSA_prac/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/igwizard16/DSA_prac/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -649,6 +654,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0230-kth-smallest-element-in-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/igwizard16/DSA_prac/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Quickselect
 |  |
 | ------- |
