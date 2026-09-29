@@ -225,6 +225,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0145-binary-tree-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/igwizard16/DSA_prac/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/igwizard16/DSA_prac/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/igwizard16/DSA_prac/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/igwizard16/DSA_prac/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/igwizard16/DSA_prac/tree/master/0402-remove-k-digits) |
@@ -423,6 +424,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | ------- |
 | [0146-lru-cache](https://github.com/igwizard16/DSA_prac/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/igwizard16/DSA_prac/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/igwizard16/DSA_prac/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/igwizard16/DSA_prac/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/igwizard16/DSA_prac/tree/master/0901-online-stock-span) |
@@ -496,6 +498,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/igwizard16/DSA_prac/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/igwizard16/DSA_prac/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/igwizard16/DSA_prac/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -553,6 +556,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/igwizard16/DSA_prac/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/igwizard16/DSA_prac/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/igwizard16/DSA_prac/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -641,6 +645,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/igwizard16/DSA_prac/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/igwizard16/DSA_prac/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/igwizard16/DSA_prac/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -656,4 +661,8 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/igwizard16/DSA_prac/tree/master/1401-circle-and-rectangle-overlapping) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/igwizard16/DSA_prac/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
