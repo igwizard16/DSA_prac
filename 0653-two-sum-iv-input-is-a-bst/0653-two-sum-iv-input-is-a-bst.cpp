@@ -11,37 +11,17 @@
  */
 class Solution {
 public:
-    void store(TreeNode* root, unordered_map<int, int>& mpp){
-        if(root == NULL) return;
-
-        mpp[root -> val]++;
-        store(root -> left, mpp);
-        store(root -> right, mpp);
-    }
-
-    bool find(TreeNode* root, unordered_map<int, int>& mpp, int key){
+    bool dfs(TreeNode* root, int k, unordered_set<int>& st){
         if(root == NULL) return false;
-        int target = key - root -> val;
 
-        if(mpp.find(target) != mpp.end()){
-            if(target != root -> val)
-                return true;
-            if(mpp[target] >= 2) return true;
-        }
+        if(st.find(k - root -> val) != st.end()) return true;
 
-        
-        if(find(root -> left, mpp, key)) return true;
-        if(find(root -> right, mpp, key)) return true;
-
-        return false;
+        st.insert(root -> val);
+        return dfs(root -> left, k, st) || dfs(root -> right, k, st);
     }
 
     bool findTarget(TreeNode* root, int k) {
-
-        unordered_map<int, int> mpp;
-
-        store(root, mpp);
-        
-        return find(root, mpp, k);
+        unordered_set<int> st;
+        return dfs(root, k, st);
     }
 };
