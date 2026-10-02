@@ -183,6 +183,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/igwizard16/DSA_prac/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1590-make-sum-divisible-by-p](https://github.com/igwizard16/DSA_prac/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/igwizard16/DSA_prac/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1664-ways-to-make-a-fair-array](https://github.com/igwizard16/DSA_prac/tree/master/1664-ways-to-make-a-fair-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/igwizard16/DSA_prac/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/igwizard16/DSA_prac/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/igwizard16/DSA_prac/tree/master/1732-find-the-highest-altitude) |
@@ -406,6 +407,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/igwizard16/DSA_prac/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/igwizard16/DSA_prac/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/igwizard16/DSA_prac/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1664-ways-to-make-a-fair-array](https://github.com/igwizard16/DSA_prac/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/igwizard16/DSA_prac/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/igwizard16/DSA_prac/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/igwizard16/DSA_prac/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
