@@ -26,6 +26,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0496-next-greater-element-i](https://github.com/igwizard16/DSA_prac/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/igwizard16/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/igwizard16/DSA_prac/tree/master/0645-set-mismatch) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/igwizard16/DSA_prac/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/igwizard16/DSA_prac/tree/master/0930-binary-subarrays-with-sum) |
@@ -88,6 +89,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0160-intersection-of-two-linked-lists](https://github.com/igwizard16/DSA_prac/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/igwizard16/DSA_prac/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/igwizard16/DSA_prac/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -517,6 +519,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/igwizard16/DSA_prac/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -545,6 +548,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0257-binary-tree-paths](https://github.com/igwizard16/DSA_prac/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -576,6 +580,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/igwizard16/DSA_prac/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -593,6 +598,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0112-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/igwizard16/DSA_prac/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -660,6 +666,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0173-binary-search-tree-iterator](https://github.com/igwizard16/DSA_prac/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/igwizard16/DSA_prac/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/igwizard16/DSA_prac/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Quickselect
