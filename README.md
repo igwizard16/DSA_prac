@@ -223,6 +223,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/igwizard16/DSA_prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
@@ -320,6 +321,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/igwizard16/DSA_prac/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -336,6 +338,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0017-letter-combinations-of-a-phone-number](https://github.com/igwizard16/DSA_prac/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/igwizard16/DSA_prac/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/igwizard16/DSA_prac/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/igwizard16/DSA_prac/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/igwizard16/DSA_prac/tree/master/0076-minimum-window-substring) |
@@ -637,6 +640,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
