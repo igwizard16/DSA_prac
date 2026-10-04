@@ -240,6 +240,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0496-next-greater-element-i](https://github.com/igwizard16/DSA_prac/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/igwizard16/DSA_prac/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/igwizard16/DSA_prac/tree/master/0636-exclusive-time-of-functions) |
+| [0678-valid-parenthesis-string](https://github.com/igwizard16/DSA_prac/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/igwizard16/DSA_prac/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/igwizard16/DSA_prac/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/igwizard16/DSA_prac/tree/master/0901-online-stock-span) |
@@ -327,6 +328,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/igwizard16/DSA_prac/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/igwizard16/DSA_prac/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/igwizard16/DSA_prac/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/igwizard16/DSA_prac/tree/master/0907-sum-of-subarray-minimums) |
 | [2742-painting-the-walls](https://github.com/igwizard16/DSA_prac/tree/master/2742-painting-the-walls) |
 ## String
@@ -355,6 +357,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/igwizard16/DSA_prac/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/igwizard16/DSA_prac/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/igwizard16/DSA_prac/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/igwizard16/DSA_prac/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/igwizard16/DSA_prac/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/igwizard16/DSA_prac/tree/master/0831-masking-personal-information) |
@@ -429,6 +432,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/igwizard16/DSA_prac/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/igwizard16/DSA_prac/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/igwizard16/DSA_prac/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/igwizard16/DSA_prac/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/igwizard16/DSA_prac/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/igwizard16/DSA_prac/tree/master/1903-largest-odd-number-in-string) |
@@ -641,6 +645,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/igwizard16/DSA_prac/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
