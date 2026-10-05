@@ -243,6 +243,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0678-valid-parenthesis-string](https://github.com/igwizard16/DSA_prac/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/igwizard16/DSA_prac/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/igwizard16/DSA_prac/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/igwizard16/DSA_prac/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/igwizard16/DSA_prac/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -361,6 +362,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0686-repeated-string-match](https://github.com/igwizard16/DSA_prac/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/igwizard16/DSA_prac/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/igwizard16/DSA_prac/tree/master/0831-masking-personal-information) |
+| [0856-score-of-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/igwizard16/DSA_prac/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/igwizard16/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -646,6 +648,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/igwizard16/DSA_prac/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
