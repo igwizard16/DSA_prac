@@ -190,6 +190,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/igwizard16/DSA_prac/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/igwizard16/DSA_prac/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/igwizard16/DSA_prac/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/igwizard16/DSA_prac/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/igwizard16/DSA_prac/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/igwizard16/DSA_prac/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/igwizard16/DSA_prac/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -285,6 +286,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/igwizard16/DSA_prac/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/igwizard16/DSA_prac/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/igwizard16/DSA_prac/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/igwizard16/DSA_prac/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/igwizard16/DSA_prac/tree/master/3731-find-missing-elements) |
 ## Merge Sort
