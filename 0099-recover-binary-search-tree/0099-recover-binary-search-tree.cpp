@@ -11,27 +11,34 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root, vector<int>& recover){
+    TreeNode* first;
+    TreeNode* middle;
+    TreeNode* last;
+    TreeNode* prev;
+
+    void inorder(TreeNode* root){
         if(root == NULL) return;
-        inorder(root -> left, recover);
-        recover.push_back(root -> val);
-        inorder(root -> right, recover);
-    }
-    
-    void replace(TreeNode* root, vector<int>& recover, int& idx){
-        if(root == NULL) return;
-        replace(root -> left, recover, idx);
-        root -> val = recover[idx++];
-        replace(root -> right, recover, idx);
+        inorder(root -> left);
+
+        if(prev != NULL && (root -> val < prev -> val)){
+            //if this is the first violation, mark these two nodes as first and middle 
+            if(first == NULL){
+                first = prev;
+                middle = root;
+            }
+            else last = root;
+        }
+        //mark this node as prev
+        prev = root;
+        inorder(root -> right);
     }
 
     void recoverTree(TreeNode* root) {
-        vector<int> recover;
-        inorder(root, recover);
-        
-        sort(recover.begin(), recover.end());
+        first = middle = last = NULL;
+        prev = new TreeNode(INT_MIN);
+        inorder(root);
 
-        int idx = 0;
-        replace(root, recover, idx);
+        if(first && last) swap(first -> val, last -> val);
+        else if(first && middle) swap(first -> val, middle -> val);
     }
 };
