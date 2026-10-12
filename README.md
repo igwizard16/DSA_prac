@@ -723,5 +723,6 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/igwizard16/DSA_prac/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/igwizard16/DSA_prac/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
