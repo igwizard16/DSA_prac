@@ -171,6 +171,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0875-koko-eating-bananas](https://github.com/igwizard16/DSA_prac/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/igwizard16/DSA_prac/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/igwizard16/DSA_prac/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/igwizard16/DSA_prac/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-valid-mountain-array](https://github.com/igwizard16/DSA_prac/tree/master/0941-valid-mountain-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igwizard16/DSA_prac/tree/master/0992-subarrays-with-k-different-integers) |
@@ -272,6 +273,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -287,6 +289,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0455-assign-cookies](https://github.com/igwizard16/DSA_prac/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/igwizard16/DSA_prac/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/igwizard16/DSA_prac/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igwizard16/DSA_prac/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/igwizard16/DSA_prac/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/igwizard16/DSA_prac/tree/master/1331-rank-transform-of-an-array) |
@@ -305,6 +308,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0023-merge-k-sorted-lists](https://github.com/igwizard16/DSA_prac/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -497,6 +501,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/igwizard16/DSA_prac/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/igwizard16/DSA_prac/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/igwizard16/DSA_prac/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/igwizard16/DSA_prac/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -651,6 +656,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/igwizard16/DSA_prac/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/igwizard16/DSA_prac/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
@@ -681,6 +687,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0912-sort-an-array) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -725,4 +732,8 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | ------- |
 | [0056-merge-intervals](https://github.com/igwizard16/DSA_prac/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/igwizard16/DSA_prac/tree/master/0455-assign-cookies) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
