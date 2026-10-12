@@ -166,6 +166,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0636-exclusive-time-of-functions](https://github.com/igwizard16/DSA_prac/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/igwizard16/DSA_prac/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/igwizard16/DSA_prac/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/igwizard16/DSA_prac/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/igwizard16/DSA_prac/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/igwizard16/DSA_prac/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/igwizard16/DSA_prac/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -224,6 +225,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/igwizard16/DSA_prac/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/igwizard16/DSA_prac/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/igwizard16/DSA_prac/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/igwizard16/DSA_prac/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/igwizard16/DSA_prac/tree/master/1004-max-consecutive-ones-iii) |
