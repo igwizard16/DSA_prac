@@ -96,6 +96,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0876-middle-of-the-linked-list](https://github.com/igwizard16/DSA_prac/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/igwizard16/DSA_prac/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/igwizard16/DSA_prac/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/igwizard16/DSA_prac/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
 | ------- |
@@ -199,6 +200,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [2073-time-needed-to-buy-tickets](https://github.com/igwizard16/DSA_prac/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/igwizard16/DSA_prac/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/igwizard16/DSA_prac/tree/master/2104-sum-of-subarray-ranges) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/igwizard16/DSA_prac/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2742-painting-the-walls](https://github.com/igwizard16/DSA_prac/tree/master/2742-painting-the-walls) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/igwizard16/DSA_prac/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/igwizard16/DSA_prac/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -294,6 +296,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1679-max-number-of-k-sum-pairs](https://github.com/igwizard16/DSA_prac/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/igwizard16/DSA_prac/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/igwizard16/DSA_prac/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/igwizard16/DSA_prac/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/igwizard16/DSA_prac/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/igwizard16/DSA_prac/tree/master/3731-find-missing-elements) |
 ## Merge Sort
@@ -452,6 +455,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1838-frequency-of-the-most-frequent-element](https://github.com/igwizard16/DSA_prac/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/igwizard16/DSA_prac/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/igwizard16/DSA_prac/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/igwizard16/DSA_prac/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Design
 |  |
 | ------- |
