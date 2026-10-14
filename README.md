@@ -113,6 +113,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1979-find-greatest-common-divisor-of-array](https://github.com/igwizard16/DSA_prac/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/igwizard16/DSA_prac/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/igwizard16/DSA_prac/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/igwizard16/DSA_prac/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/igwizard16/DSA_prac/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/igwizard16/DSA_prac/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/igwizard16/DSA_prac/tree/master/3870-count-commas-in-range) |
@@ -464,6 +465,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1903-largest-odd-number-in-string](https://github.com/igwizard16/DSA_prac/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/igwizard16/DSA_prac/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/igwizard16/DSA_prac/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/igwizard16/DSA_prac/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Design
 |  |
 | ------- |
