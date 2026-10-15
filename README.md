@@ -134,6 +134,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0014-longest-common-prefix](https://github.com/igwizard16/DSA_prac/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/igwizard16/DSA_prac/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/igwizard16/DSA_prac/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/igwizard16/DSA_prac/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/igwizard16/DSA_prac/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/igwizard16/DSA_prac/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
@@ -220,6 +221,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/igwizard16/DSA_prac/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/igwizard16/DSA_prac/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/igwizard16/DSA_prac/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/igwizard16/DSA_prac/tree/master/0222-count-complete-tree-nodes) |
