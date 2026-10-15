@@ -42,6 +42,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1679-max-number-of-k-sum-pairs](https://github.com/igwizard16/DSA_prac/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/igwizard16/DSA_prac/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/igwizard16/DSA_prac/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/igwizard16/DSA_prac/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/igwizard16/DSA_prac/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/igwizard16/DSA_prac/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/igwizard16/DSA_prac/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -208,6 +209,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/igwizard16/DSA_prac/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2742-painting-the-walls](https://github.com/igwizard16/DSA_prac/tree/master/2742-painting-the-walls) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/igwizard16/DSA_prac/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/igwizard16/DSA_prac/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/igwizard16/DSA_prac/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/igwizard16/DSA_prac/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/igwizard16/DSA_prac/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -653,10 +655,12 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/igwizard16/DSA_prac/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/igwizard16/DSA_prac/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
