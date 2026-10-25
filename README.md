@@ -140,6 +140,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0039-combination-sum](https://github.com/igwizard16/DSA_prac/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/igwizard16/DSA_prac/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/igwizard16/DSA_prac/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/igwizard16/DSA_prac/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/igwizard16/DSA_prac/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/igwizard16/DSA_prac/tree/master/0055-jump-game) |
@@ -357,6 +358,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0022-generate-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/igwizard16/DSA_prac/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/igwizard16/DSA_prac/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -466,6 +468,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/igwizard16/DSA_prac/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/igwizard16/DSA_prac/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/igwizard16/DSA_prac/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/igwizard16/DSA_prac/tree/master/0402-remove-k-digits) |
