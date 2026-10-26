@@ -109,6 +109,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0066-plus-one](https://github.com/igwizard16/DSA_prac/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/igwizard16/DSA_prac/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/igwizard16/DSA_prac/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/igwizard16/DSA_prac/tree/master/0204-count-primes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/igwizard16/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/igwizard16/DSA_prac/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/igwizard16/DSA_prac/tree/master/1903-largest-odd-number-in-string) |
@@ -159,6 +160,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/igwizard16/DSA_prac/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/igwizard16/DSA_prac/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/igwizard16/DSA_prac/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/igwizard16/DSA_prac/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/igwizard16/DSA_prac/tree/master/0239-sliding-window-maximum) |
@@ -662,6 +664,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/igwizard16/DSA_prac/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/igwizard16/DSA_prac/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Indexed Tree
 |  |
@@ -686,6 +689,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/igwizard16/DSA_prac/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/igwizard16/DSA_prac/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/igwizard16/DSA_prac/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/igwizard16/DSA_prac/tree/master/3483-unique-3-digit-even-numbers) |
@@ -764,4 +768,16 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/igwizard16/DSA_prac/tree/master/0852-peak-index-in-a-mountain-array) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/igwizard16/DSA_prac/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/igwizard16/DSA_prac/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/igwizard16/DSA_prac/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
