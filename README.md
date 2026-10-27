@@ -110,6 +110,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0067-add-binary](https://github.com/igwizard16/DSA_prac/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/igwizard16/DSA_prac/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/igwizard16/DSA_prac/tree/master/0204-count-primes) |
+| [0932-beautiful-array](https://github.com/igwizard16/DSA_prac/tree/master/0932-beautiful-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/igwizard16/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/igwizard16/DSA_prac/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/igwizard16/DSA_prac/tree/master/1903-largest-odd-number-in-string) |
@@ -184,6 +185,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0907-sum-of-subarray-minimums](https://github.com/igwizard16/DSA_prac/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/igwizard16/DSA_prac/tree/master/0930-binary-subarrays-with-sum) |
+| [0932-beautiful-array](https://github.com/igwizard16/DSA_prac/tree/master/0932-beautiful-array) |
 | [0941-valid-mountain-array](https://github.com/igwizard16/DSA_prac/tree/master/0941-valid-mountain-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igwizard16/DSA_prac/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/igwizard16/DSA_prac/tree/master/1004-max-consecutive-ones-iii) |
@@ -290,6 +292,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0215-kth-largest-element-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/igwizard16/DSA_prac/tree/master/0932-beautiful-array) |
 ## Sorting
 |  |
 | ------- |
