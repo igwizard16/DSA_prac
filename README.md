@@ -19,6 +19,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0160-intersection-of-two-linked-lists](https://github.com/igwizard16/DSA_prac/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/igwizard16/DSA_prac/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/igwizard16/DSA_prac/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/igwizard16/DSA_prac/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/igwizard16/DSA_prac/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
@@ -165,6 +166,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0215-kth-largest-element-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/igwizard16/DSA_prac/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/igwizard16/DSA_prac/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/igwizard16/DSA_prac/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/igwizard16/DSA_prac/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0455-assign-cookies](https://github.com/igwizard16/DSA_prac/tree/master/0455-assign-cookies) |
@@ -290,6 +292,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/igwizard16/DSA_prac/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/igwizard16/DSA_prac/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/igwizard16/DSA_prac/tree/master/0932-beautiful-array) |
@@ -304,6 +307,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0148-sort-list](https://github.com/igwizard16/DSA_prac/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/igwizard16/DSA_prac/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/igwizard16/DSA_prac/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/igwizard16/DSA_prac/tree/master/0455-assign-cookies) |
@@ -467,6 +471,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/igwizard16/DSA_prac/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igwizard16/DSA_prac/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/igwizard16/DSA_prac/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -525,6 +530,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0023-merge-k-sorted-lists](https://github.com/igwizard16/DSA_prac/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/igwizard16/DSA_prac/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/igwizard16/DSA_prac/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/igwizard16/DSA_prac/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/igwizard16/DSA_prac/tree/master/0658-find-k-closest-elements) |
@@ -717,6 +723,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/igwizard16/DSA_prac/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0912-sort-an-array) |
 ## Z Algorithm
@@ -746,6 +753,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/igwizard16/DSA_prac/tree/master/0347-top-k-frequent-elements) |
 ## Tournament Sort
 |  |
 | ------- |
