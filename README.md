@@ -161,6 +161,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0090-subsets-ii](https://github.com/igwizard16/DSA_prac/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0137-single-number-ii](https://github.com/igwizard16/DSA_prac/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/igwizard16/DSA_prac/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/igwizard16/DSA_prac/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/igwizard16/DSA_prac/tree/master/0204-count-primes) |
@@ -360,6 +361,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0067-add-binary](https://github.com/igwizard16/DSA_prac/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/igwizard16/DSA_prac/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/igwizard16/DSA_prac/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/igwizard16/DSA_prac/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/igwizard16/DSA_prac/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/igwizard16/DSA_prac/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/igwizard16/DSA_prac/tree/master/0645-set-mismatch) |
