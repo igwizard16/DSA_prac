@@ -169,6 +169,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0347-top-k-frequent-elements](https://github.com/igwizard16/DSA_prac/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/igwizard16/DSA_prac/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0435-non-overlapping-intervals](https://github.com/igwizard16/DSA_prac/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/igwizard16/DSA_prac/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/igwizard16/DSA_prac/tree/master/0496-next-greater-element-i) |
@@ -309,6 +310,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0242-valid-anagram](https://github.com/igwizard16/DSA_prac/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/igwizard16/DSA_prac/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/igwizard16/DSA_prac/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/igwizard16/DSA_prac/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/igwizard16/DSA_prac/tree/master/0645-set-mismatch) |
@@ -373,6 +375,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/igwizard16/DSA_prac/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/igwizard16/DSA_prac/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/igwizard16/DSA_prac/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/igwizard16/DSA_prac/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/igwizard16/DSA_prac/tree/master/0907-sum-of-subarray-minimums) |
 | [2742-painting-the-walls](https://github.com/igwizard16/DSA_prac/tree/master/2742-painting-the-walls) |
@@ -482,6 +485,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0055-jump-game](https://github.com/igwizard16/DSA_prac/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/igwizard16/DSA_prac/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/igwizard16/DSA_prac/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/igwizard16/DSA_prac/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/igwizard16/DSA_prac/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/igwizard16/DSA_prac/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/igwizard16/DSA_prac/tree/master/0860-lemonade-change) |
