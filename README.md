@@ -394,6 +394,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/igwizard16/DSA_prac/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/igwizard16/DSA_prac/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/igwizard16/DSA_prac/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/igwizard16/DSA_prac/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/igwizard16/DSA_prac/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/igwizard16/DSA_prac/tree/master/0079-word-search) |
