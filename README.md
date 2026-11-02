@@ -112,6 +112,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0150-evaluate-reverse-polish-notation](https://github.com/igwizard16/DSA_prac/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/igwizard16/DSA_prac/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/igwizard16/DSA_prac/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/igwizard16/DSA_prac/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0932-beautiful-array](https://github.com/igwizard16/DSA_prac/tree/master/0932-beautiful-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/igwizard16/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/igwizard16/DSA_prac/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -174,6 +175,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0435-non-overlapping-intervals](https://github.com/igwizard16/DSA_prac/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/igwizard16/DSA_prac/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/igwizard16/DSA_prac/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/igwizard16/DSA_prac/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/igwizard16/DSA_prac/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/igwizard16/DSA_prac/tree/master/0503-next-greater-element-ii) |
@@ -316,6 +318,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0435-non-overlapping-intervals](https://github.com/igwizard16/DSA_prac/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/igwizard16/DSA_prac/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/igwizard16/DSA_prac/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/igwizard16/DSA_prac/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/igwizard16/DSA_prac/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/igwizard16/DSA_prac/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/igwizard16/DSA_prac/tree/master/0912-sort-an-array) |
