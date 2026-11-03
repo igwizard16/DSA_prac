@@ -121,6 +121,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [2965-find-missing-and-repeated-values](https://github.com/igwizard16/DSA_prac/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/igwizard16/DSA_prac/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/igwizard16/DSA_prac/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/igwizard16/DSA_prac/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/igwizard16/DSA_prac/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/igwizard16/DSA_prac/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/igwizard16/DSA_prac/tree/master/3870-count-commas-in-range) |
@@ -231,6 +232,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [3471-find-the-largest-almost-missing-integer](https://github.com/igwizard16/DSA_prac/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/igwizard16/DSA_prac/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/igwizard16/DSA_prac/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/igwizard16/DSA_prac/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/igwizard16/DSA_prac/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/igwizard16/DSA_prac/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/igwizard16/DSA_prac/tree/master/3875-construct-uniform-parity-array-i) |
