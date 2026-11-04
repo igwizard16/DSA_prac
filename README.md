@@ -163,6 +163,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0090-subsets-ii](https://github.com/igwizard16/DSA_prac/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/igwizard16/DSA_prac/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0135-candy](https://github.com/igwizard16/DSA_prac/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/igwizard16/DSA_prac/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/igwizard16/DSA_prac/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/igwizard16/DSA_prac/tree/master/0152-maximum-product-subarray) |
@@ -493,6 +494,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | ------- |
 | [0045-jump-game-ii](https://github.com/igwizard16/DSA_prac/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/igwizard16/DSA_prac/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/igwizard16/DSA_prac/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/igwizard16/DSA_prac/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/igwizard16/DSA_prac/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/igwizard16/DSA_prac/tree/master/0435-non-overlapping-intervals) |
