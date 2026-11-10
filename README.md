@@ -110,6 +110,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0050-powx-n](https://github.com/igwizard16/DSA_prac/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/igwizard16/DSA_prac/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/igwizard16/DSA_prac/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/igwizard16/DSA_prac/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/igwizard16/DSA_prac/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/igwizard16/DSA_prac/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/igwizard16/DSA_prac/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -385,6 +386,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0042-trapping-rain-water](https://github.com/igwizard16/DSA_prac/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/igwizard16/DSA_prac/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/igwizard16/DSA_prac/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/igwizard16/DSA_prac/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/igwizard16/DSA_prac/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/igwizard16/DSA_prac/tree/master/0131-palindrome-partitioning) |
@@ -815,4 +817,8 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/igwizard16/DSA_prac/tree/master/0493-reverse-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/igwizard16/DSA_prac/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
