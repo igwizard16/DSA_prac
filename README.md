@@ -184,6 +184,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0496-next-greater-element-i](https://github.com/igwizard16/DSA_prac/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/igwizard16/DSA_prac/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/igwizard16/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/igwizard16/DSA_prac/tree/master/0605-can-place-flowers) |
 | [0636-exclusive-time-of-functions](https://github.com/igwizard16/DSA_prac/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/igwizard16/DSA_prac/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/igwizard16/DSA_prac/tree/master/0658-find-k-closest-elements) |
@@ -505,6 +506,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0402-remove-k-digits](https://github.com/igwizard16/DSA_prac/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/igwizard16/DSA_prac/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/igwizard16/DSA_prac/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/igwizard16/DSA_prac/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/igwizard16/DSA_prac/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/igwizard16/DSA_prac/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/igwizard16/DSA_prac/tree/master/0921-minimum-add-to-make-parentheses-valid) |
