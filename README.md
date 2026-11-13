@@ -824,4 +824,8 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/igwizard16/DSA_prac/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/igwizard16/DSA_prac/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
