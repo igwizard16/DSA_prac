@@ -176,6 +176,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0347-top-k-frequent-elements](https://github.com/igwizard16/DSA_prac/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/igwizard16/DSA_prac/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0403-frog-jump](https://github.com/igwizard16/DSA_prac/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/igwizard16/DSA_prac/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/igwizard16/DSA_prac/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/igwizard16/DSA_prac/tree/master/0455-assign-cookies) |
@@ -394,6 +395,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0124-binary-tree-maximum-path-sum](https://github.com/igwizard16/DSA_prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/igwizard16/DSA_prac/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/igwizard16/DSA_prac/tree/master/0152-maximum-product-subarray) |
+| [0403-frog-jump](https://github.com/igwizard16/DSA_prac/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/igwizard16/DSA_prac/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/igwizard16/DSA_prac/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/igwizard16/DSA_prac/tree/master/0907-sum-of-subarray-minimums) |
