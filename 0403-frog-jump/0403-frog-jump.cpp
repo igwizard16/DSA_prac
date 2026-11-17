@@ -7,16 +7,23 @@ public:
         if (dp[idx][k] != -1)
             return dp[idx][k];
 
-        for(int jump = k - 1; jump <= k + 1; jump++){
-            if(jump <= 0) continue;
+        for (int jump = k - 1; jump <= k + 1; jump++) {
+            if (jump <= 0)
+                continue;
 
             int nextPos = stones[idx] + jump;
+            // lower_bound() returns an iterator pointing to the first element
+            // that is greater than or equal to nextPos.
             auto it = lower_bound(stones.begin(), stones.end(), nextPos);
 
-            if(it != stones.end() && *it == nextPos){
+            /*
+            stones.begin() points to the first element.
+            stones.end() points to the position immediately after the last element
+            */
+            if (it != stones.end() && *it == nextPos) {
                 int nextIdx = it - stones.begin();
 
-                if(cross(stones, dp, nextIdx, jump)){
+                if (cross(stones, dp, nextIdx, jump)) {
                     return dp[idx][k] = true;
                 }
             }
@@ -26,8 +33,8 @@ public:
 
     bool canCross(vector<int>& stones) {
         int n = stones.size();
-        
-        vector<vector<int>> dp(n, vector<int> (n + 1, -1));
+
+        vector<vector<int>> dp(n, vector<int>(n + 1, -1));
         return cross(stones, dp, 0, 0);
     }
 };
