@@ -100,6 +100,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1346-check-if-n-and-its-double-exist](https://github.com/igwizard16/DSA_prac/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/igwizard16/DSA_prac/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/igwizard16/DSA_prac/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1768-merge-strings-alternately](https://github.com/igwizard16/DSA_prac/tree/master/1768-merge-strings-alternately) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/igwizard16/DSA_prac/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
@@ -439,6 +440,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/igwizard16/DSA_prac/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/igwizard16/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/igwizard16/DSA_prac/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/igwizard16/DSA_prac/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/igwizard16/DSA_prac/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/igwizard16/DSA_prac/tree/master/1903-largest-odd-number-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/igwizard16/DSA_prac/tree/master/3090-maximum-length-substring-with-two-occurrences) |
