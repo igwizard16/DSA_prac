@@ -125,6 +125,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [1979-find-greatest-common-divisor-of-array](https://github.com/igwizard16/DSA_prac/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/igwizard16/DSA_prac/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/igwizard16/DSA_prac/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/igwizard16/DSA_prac/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/igwizard16/DSA_prac/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/igwizard16/DSA_prac/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/igwizard16/DSA_prac/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -241,6 +242,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [2965-find-missing-and-repeated-values](https://github.com/igwizard16/DSA_prac/tree/master/2965-find-missing-and-repeated-values) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/igwizard16/DSA_prac/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/igwizard16/DSA_prac/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/igwizard16/DSA_prac/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/igwizard16/DSA_prac/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/igwizard16/DSA_prac/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/igwizard16/DSA_prac/tree/master/3731-find-missing-elements) |
@@ -488,6 +490,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/igwizard16/DSA_prac/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/igwizard16/DSA_prac/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/igwizard16/DSA_prac/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/igwizard16/DSA_prac/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -716,6 +719,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | ------- |
 | [0204-count-primes](https://github.com/igwizard16/DSA_prac/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/igwizard16/DSA_prac/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/igwizard16/DSA_prac/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -742,6 +746,7 @@ Focused on understanding patterns, optimizing solutions, and improving problem-s
 | [0204-count-primes](https://github.com/igwizard16/DSA_prac/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/igwizard16/DSA_prac/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/igwizard16/DSA_prac/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/igwizard16/DSA_prac/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/igwizard16/DSA_prac/tree/master/3483-unique-3-digit-even-numbers) |
 ## Algorithm X
 |  |
